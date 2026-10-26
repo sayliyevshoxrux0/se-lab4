@@ -1,0 +1,3 @@
+#One store fires successfully, the other fails.
+GT4500,1,0,0,0
+TORPEDO,All
