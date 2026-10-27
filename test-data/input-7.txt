@@ -1,0 +1,3 @@
+#Primary is next in line and contains torpedoes, but firing it fails. The secondary could fire successfully.
+GT4500,1,0,1,0
+TORPEDO,All

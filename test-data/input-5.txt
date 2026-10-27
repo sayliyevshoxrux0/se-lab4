@@ -1,0 +1,4 @@
+#Secondary is next in line to fire, but the secondary store is empty. The primary store contains torpedoes.
+GT4500,2,0,0,0
+TORPEDO,SINGLE 
+TORPEDO,SINGLE

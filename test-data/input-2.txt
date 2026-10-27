@@ -1,0 +1,4 @@
+# Both stores contain torpedoes. 
+GT4500,10,0,10,0
+TORPEDO,SINGLE #The primary store was fired last time.
+TORPEDO,SINGLE
